@@ -5,4 +5,5 @@ int main()
 	print("love world");
 	print("hate you");
 	are you 
+	fuck you
 }
