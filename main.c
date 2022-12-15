@@ -2,6 +2,6 @@
 int main()
 {
 	print("hello world");
-	printf("fuck world");
+	print("love world");
 	
 }
